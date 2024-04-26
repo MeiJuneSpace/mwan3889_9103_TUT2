@@ -10,3 +10,5 @@ This is my first local change to the repo.
 ###### Heading 6
 
 **This is bold text**
+
+*Italic text*
