@@ -6,3 +6,5 @@ This is my first local change to the repo.
 # Heading level 1
 ## Heading 2
 ### Heading 3
+
+###### Heading 6
