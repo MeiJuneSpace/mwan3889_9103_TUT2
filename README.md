@@ -16,3 +16,10 @@ This is my first local change to the repo.
 - Item 2
     - Sub item 1
     - Sub item 2
+        - Sub sub item
+            - sub sub sub item
+
+**Numbered List**
+1. First item
+2. Second item
+    1. 1 st sub item
