@@ -8,3 +8,5 @@ This is my first local change to the repo.
 ### Heading 3
 
 ###### Heading 6
+
+**This is bold text**
