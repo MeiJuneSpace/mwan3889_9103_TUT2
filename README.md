@@ -12,3 +12,7 @@ This is my first local change to the repo.
 **This is bold text**
 
 *Italic text*
+- Item 1
+- Item 2
+    - Sub item 1
+    - Sub item 2
